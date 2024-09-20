@@ -5,7 +5,7 @@ import android.util.Log;
 import java.util.ArrayList;
 
 public class NowPlayingFilmID implements FilmIDAvailable {
-    private final String url = "https://api.themoviedb.org/3/movie/now_playing?api_key=9356cb1f42f053e63a72c6bf6ca12171&language=en-US&page=1";
+    private final String url = "https://api.themoviedb.org/3/movie/now_playing?api_key="YOUR API KEY HERE"&language=en-US&page=1";
 //    private final String url = "https://api.themoviedb.org/3/movie/now_playing?region=NL&page=1&language=en-US&api_key=9356cb1f42f053e63a72c6bf6ca12171";
 
 
